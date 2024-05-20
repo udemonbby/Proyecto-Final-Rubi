@@ -1,0 +1,14 @@
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\bin\Debug\net8.0\Ejemplo Proyecto Rubi.exe
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\bin\Debug\net8.0\Ejemplo Proyecto Rubi.deps.json
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\bin\Debug\net8.0\Ejemplo Proyecto Rubi.runtimeconfig.json
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\bin\Debug\net8.0\Ejemplo Proyecto Rubi.dll
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\bin\Debug\net8.0\Ejemplo Proyecto Rubi.pdb
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\obj\Debug\net8.0\Ejemplo Proyecto Rubi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\obj\Debug\net8.0\Ejemplo Proyecto Rubi.AssemblyInfoInputs.cache
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\obj\Debug\net8.0\Ejemplo Proyecto Rubi.AssemblyInfo.cs
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\obj\Debug\net8.0\Ejemplo Proyecto Rubi.csproj.CoreCompileInputs.cache
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\obj\Debug\net8.0\Ejemplo Proyecto Rubi.dll
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\obj\Debug\net8.0\refint\Ejemplo Proyecto Rubi.dll
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\obj\Debug\net8.0\Ejemplo Proyecto Rubi.pdb
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\obj\Debug\net8.0\Ejemplo Proyecto Rubi.genruntimeconfig.cache
+C:\Users\besal\source\repos\Ejemplo Proyecto Rubi\Ejemplo Proyecto Rubi\obj\Debug\net8.0\ref\Ejemplo Proyecto Rubi.dll
